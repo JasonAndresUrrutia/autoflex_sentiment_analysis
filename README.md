@@ -1,4 +1,4 @@
-# 🚗 AutoFlex Sentiment Analysis
+# AutoFlex Sentiment Analysis
 
 ## Descripción
 
